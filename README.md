@@ -8,7 +8,7 @@
 <hr>
 
 ## Additional details
-* The jupyter notebook will be uploaded soon!!
+* There is one jupyter notebook in the project [play-store.ipynb](https://github.com/sagar-0817/google-play-store/blob/master/play-store.ipynb) in which the EDA has been done.<br>
 * The notebook uses a dataset called [googleplaystore.csv](https://github.com/sagar-0817/google-play-store/blob/master/googleplaystore.csv).<br>
 * To understand how to interact with the different plotly graphs, you can view [this](https://github.com/sagar-0817/plotly-graph-instructions/blob/master/plotly-graph-instructions.ipynb) notebook.
 <hr>
@@ -21,7 +21,7 @@
 * Since plotly graphs are interactive and Github performs a static render of the notebook, the graphs do not appear when the notebook is viewed on GitHub.<br>
 * You will be able to view the graphs when the notebook is rendered on [jupyter nbviewer](https://nbviewer.jupyter.org/). All you have to do is go to the link,
 copy and paste the following URL and click `Go!`.
-  * URL will be updated soon!!
+  * **play-store.ipynb** : https://github.com/sagar-0817/google-play-store/blob/master/play-store.ipynb
   
 * You can also view the notebook on [Google Colab](https://colab.research.google.com) where you can run the notebook and make changes if you want without downloading
 the notebook to your local system.
