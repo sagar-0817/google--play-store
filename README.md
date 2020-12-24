@@ -1,7 +1,5 @@
 # Google Play Store Expedition
 
-**Note : The work is still in progress**
-
 ## Description
 * The project is the **Exploratory Data Analysis** (EDA) of a diversity of **apps** on the **Google Play Store**.<br>
 * The **insights** have been visually expressed through **interactive graphs/charts**.
