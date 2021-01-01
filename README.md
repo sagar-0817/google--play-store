@@ -1,12 +1,12 @@
 # Google Play Store Expedition
 
 ## Description
-* The project is the **Exploratory Data Analysis** (EDA) of a diversity of **apps** on the **Google Play Store**.<br>
+* The project is the **Data Analysis** of a diversity of **apps** on the **Google Play Store**.<br>
 * The **insights** have been visually expressed through **interactive graphs/charts**.
 <hr>
 
 ## Additional details
-* There is one jupyter notebook in the project [play-store.ipynb](https://github.com/sagar-0817/google-play-store/blob/master/play-store.ipynb) in which the EDA has been done.<br>
+* There is one jupyter notebook in the project [play-store.ipynb](https://github.com/sagar-0817/google-play-store/blob/master/play-store.ipynb) in which the Data Analysis has been done.<br>
 * The notebook uses a dataset called [googleplaystore.csv](https://github.com/sagar-0817/google-play-store/blob/master/googleplaystore.csv).<br>
 * To understand how to interact with the different plotly graphs, you can view [this](https://github.com/sagar-0817/plotly-graph-instructions/blob/master/plotly-graph-instructions.ipynb) notebook.
 <hr>
